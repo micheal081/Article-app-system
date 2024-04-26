@@ -10,7 +10,7 @@ The Article App Backend System serves as the engine behind a content delivery ap
 
 Clone the repository
 
-    git clone https://github.com/micheal081/Article-App-Backend-System.git
+    git clone https://github.com/micheal081/Article-app-system.git
 
 Switch to the repo folder
 
