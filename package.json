@@ -1,7 +1,7 @@
 {
-  "name": "nestjs-realworld-example-app",
-  "version": "2.0.0",
-  "description": "[![Build Status](https://travis-ci.org/anishkny/node-express-realworld-example-app.svg?branch=master)](https://travis-ci.org/anishkny/node-express-realworld-example-app)",
+  "name": "article-app",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -14,14 +14,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lujakob/nestjs-realworld-example-app.git"
+    "url": "git+https://github.com/micheal081/Article-app-system.git"
   },
-  "author": "lu.jakob@googlemail.com",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/lujakob/nestjs-realworld-example-app/issues"
-  },
-  "homepage": "https://github.com/lujakob/nestjs-realworld-example-app#readme",
   "dependencies": {
     "@nestjs/common": "^7.0.5",
     "@nestjs/core": "^7.0.5",
