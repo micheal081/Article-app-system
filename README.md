@@ -107,12 +107,6 @@ The database tables are now set up and the prisma client is generated. For more 
 
 ----------
 
-## API Specification
-
-This application adheres to the api specifications set by the [Thinkster](https://github.com/gothinkster) team. This helps mix and match any backend with any other frontend without conflicts.
-
-----------
-
 ## Start application
 
 - `npm start`
